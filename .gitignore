@@ -1,7 +1,7 @@
 .DS_Store
 *.ipynb_checkpoints
 *.pytest_cache
-*.pyc
+*.csv
 *__pycache__
 
 # Ignoring old copies of yml files
